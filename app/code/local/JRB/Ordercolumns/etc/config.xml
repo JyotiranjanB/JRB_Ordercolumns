@@ -1,8 +1,6 @@
 <?xml version="1.0"?>
 <!--
-/**
-* JRB_Ordercolumns_Block_Adminhtml_Order_Grid
-* 
+/** 
 * @category   JRB
 * @package    JRB_Ordercolumns
 * @author     Jyotiranjan Biswal <biswal@jyotiranjan.in>
